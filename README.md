@@ -1,2 +1,2 @@
-# nfs-simple
-Demonstration of a simple NFS server on Cloudlab
+# nfs-dataset
+Demonstration of a persistent NFS server and multiple clients on Cloudlab
